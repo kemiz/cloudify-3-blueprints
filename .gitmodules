@@ -1,3 +1,9 @@
 [submodule "application-blueprints/xap-cluster-with-monitoring-and-persistency-cfy3"]
 	path = application-blueprints/xap-cluster-with-monitoring-and-persistency-cfy3
 	url = https://github.com/kemiz/xap-cluster-with-monitoring-and-persistency-cfy3
+[submodule "application-blueprints/cloudify-nodecellar-docker-example"]
+	path = application-blueprints/cloudify-nodecellar-docker-example
+	url = https://github.com/cloudify-cosmo/cloudify-nodecellar-docker-example
+[submodule "application-blueprints/cloudify-nodecellar-example"]
+	path = application-blueprints/cloudify-nodecellar-example
+	url = https://github.com/cloudify-cosmo/cloudify-nodecellar-example
