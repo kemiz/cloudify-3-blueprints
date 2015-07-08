@@ -1,33 +1,3 @@
-[submodule "salt-cfy3"]
-	path = service-blueprints/salt-cfy3
-	url = https://github.com/kemiz/salt-cfy3
-[submodule "xap-4-cloudify-3"]
-	path = service-blueprints/xap-4-cloudify-3
-	url = https://github.com/kemiz/xap-4-cloudify-3
-[submodule "logstash-cfy3"]
-	path = service-blueprints/logstash-cfy3
-	url = https://github.com/kemiz/logstash-cfy3
-[submodule "redis-cfy3"]
-	path = service-blueprints/redis-cfy3
-	url = https://github.com/kemiz/redis-cfy3
-[submodule "grafana-cfy3"]
-	path = service-blueprints/grafana-cfy3
-	url = https://github.com/kemiz/grafana-cfy3
-[submodule "elasticsearch-cfy3"]
-	path = service-blueprints/elasticsearch-cfy3
-	url = https://github.com/kemiz/elasticsearch-cfy3
-[submodule "postgres-cfy3"]
-	path = service-blueprints/postgres-cfy3
-	url = https://github.com/kemiz/postgres-cfy3
-[submodule "service-blueprints/mongodb-cfy3"]
-	path = service-blueprints/mongodb-cfy3
-	url = https://github.com/kemiz/mongodb-cfy3
-[submodule "application-blueprints/cloudify-nodecellar-example"]
-	path = application-blueprints/cloudify-nodecellar-example
-	url = https://github.com/cloudify-cosmo/cloudify-nodecellar-example
-[submodule "application-blueprints/cloudify-nodecellar-docker-example"]
-	path = application-blueprints/cloudify-nodecellar-docker-example
-	url = https://github.com/cloudify-cosmo/cloudify-nodecellar-docker-example
 [submodule "application-blueprints/xap-cluster-with-monitoring-and-persistency-cfy3"]
 	path = application-blueprints/xap-cluster-with-monitoring-and-persistency-cfy3
 	url = https://github.com/kemiz/xap-cluster-with-monitoring-and-persistency-cfy3
