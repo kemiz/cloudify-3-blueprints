@@ -31,3 +31,6 @@
 [submodule "service-blueprints/postgres-cfy3"]
 	path = service-blueprints/postgres-cfy3
 	url = https://github.com/kemiz/postgres-cfy3
+[submodule "application-blueprints/windows-example-cfy3"]
+	path = application-blueprints/windows-example-cfy3
+	url = https://github.com/kemiz/windows-example-cfy3
