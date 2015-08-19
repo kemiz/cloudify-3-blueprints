@@ -37,3 +37,6 @@
 [submodule "application-blueprints/nodecellar-dproxy-example"]
 	path = application-blueprints/nodecellar-dproxy-example
 	url = https://github.com/kemiz/nodecellar-dproxy-example.git
+[submodule "application-blueprints/package-installer-example-cfy3"]
+	path = application-blueprints/package-installer-example-cfy3
+	url = https://github.com/kemiz/package-installer-example-cfy3.git
